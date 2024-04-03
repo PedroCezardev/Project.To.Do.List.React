@@ -30,4 +30,4 @@ Link do meu site 💻: https://project-to-do-list-react.vercel.app/
 # Screenshot
 Veja a captura de tela do projeto:
 
-![screenshot](./img/print.png)
+![screenshot](src/img/print.png)
